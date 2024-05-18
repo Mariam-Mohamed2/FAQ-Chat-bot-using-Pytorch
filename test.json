@@ -1,0 +1,27 @@
+{
+    "intents": [
+      {"pattern": "Who developed you?", "tag": "creator"},
+      {"pattern": "How're you?", "tag": "greeting"},
+      {"pattern": "What's new?", "tag": "greeting"},
+      {"pattern": "How's everything?", "tag": "greeting"},
+      {"pattern": "How's life treating you?", "tag": "greeting"},
+      {"pattern": "What's happening?", "tag": "greeting"},
+      {"pattern": "How have you been?", "tag": "greeting"},
+      {"pattern": "How's it going?", "tag": "greeting"},
+      {"pattern": "What's up?", "tag": "greeting"},
+      {"pattern": "How's your day?", "tag": "greeting"},
+      {"pattern": "Adios!", "tag": "goodbye"},
+      {"pattern": "Take care!", "tag": "goodbye"},
+      {"pattern": "Until next time!", "tag": "goodbye"},
+      {"pattern": "Farewell!", "tag": "goodbye"},
+      {"pattern": "Catch you later!", "tag": "goodbye"},
+      {"pattern": "Can you tell me about your development team?", "tag": "creator"},
+      {"pattern": "Who are the developers behind you?", "tag": "creator"},
+      {"pattern": "Tell me about your development team.", "tag": "creator"},
+      {"pattern": "I'm curious about the minds behind your creation, could you provide some details?", "tag": "creator"},
+      {"pattern": "Who is responsible for your creation?", "tag": "creator"},
+      {"pattern": "Could you share information about the people who made you?", "tag": "creator"},
+      {"pattern": "Can you name the individuals behind your development?", "tag": "creator"}
+    ]
+  }
+  

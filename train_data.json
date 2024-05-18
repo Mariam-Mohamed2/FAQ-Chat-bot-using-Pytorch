@@ -1,0 +1,1043 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Good day",
+                "Anybody here?",
+                "how are ya",
+                "Hi",
+                "Hey, how's it going?",
+                "What's up",
+                "Hey, how's everything?",
+                "Hello",
+                "Hey, long time no see!",
+                "How's life?",
+                "Hey, what's going on?",
+                "whatsup",
+                "Hey, how's your day going so far?",
+                "How are you?",
+                "What's cracking?",
+                "Hey, what's new?",
+                "Hey, how have you been?",
+                "Is anyone there?",
+                "Hey, how's life treating you?",
+                "Howdy, partner!"
+            ],
+            "responses": [
+                "Hello!",
+                "Good to see you again!",
+                "Hi there, how can I help?",
+                "Hey!",
+                "Nice to meet you!",
+                "Hey, what can I do for you?",
+                "Hi, how are you today?",
+                "Hey, good to see you!",
+                "Hello, how can I assist you?",
+                "Hey there, nice to chat with you!",
+                "Hey, what brings you here?",
+                "Hey, how can I help you?",
+                "Hi, how's everything going?",
+                "Hey, how can I assist you?",
+                "Hello, how can I help you today?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "See you soon, buddy!",
+                "Goodbye, my friend, until next time!",
+                "Goodbye",
+                "Bye",
+                "Catch you later, mate!",
+                "Take care, see you later!",
+                "See you next time, friend!",
+                "See you when I see you!",
+                "talk to you later",
+                "Bye, until next time!",
+                "Time to say goodbye!",
+                "See you later",
+                "bye bye",
+                "See you in a while!",
+                "Bye, take care of yourself!",
+                "see you",
+                "I'll be off then!",
+                "Bye, take it easy!"
+            ],
+            "responses": [
+                "Sad to see you go :(",
+                "Talk to you later",
+                "Goodbye!",
+                "Gotta go now, see you later!",
+                "I'm off, take care, bye!",
+                "See you soon, take care of yourself!",
+                "I'm heading out now, see you later!"
+            ]
+        },
+        {
+            "tag": "task",
+            "patterns": [
+                "things you can do",
+                "how u can help me",
+                "what can you do",
+                "what can u do for me"
+            ],
+            "responses": [
+                "I can answer to  questions which I have been trained on ",
+                "You can ask me questions regarding to knowledge i acquired , and i will try to answer them"
+            ]
+        },
+        {
+            "tag": "creator",
+            "patterns": [
+                "who made you",
+                "what is the name of your developers",
+                "who created you",
+                "who create you",
+                "developers",
+                "who are your developers",
+                "you are made by whom",
+                "you are made by",
+                "your developers",
+                "what is the name of the creators"
+            ],
+            "responses": [
+                "College students",
+                "Developed by students",
+                "Students created me"
+            ]
+        },
+        {
+            "tag": "name",
+            "patterns": [
+                "do you have a name",
+                "your name",
+                "name",
+                "who am i taking to",
+                "what are you",
+                "what are you called",
+                "who are you",
+                "what am i chatting to",
+                "what is your name",
+                "whats your name?"
+            ],
+            "responses": [
+                "You can call me Mind Reader.",
+                "I'm Mind Reader",
+                "I am a Chatbot.",
+                "I am your helper"
+            ]
+        },
+        {
+            "tag": "hours",
+            "patterns": [
+                "timing of college",
+                "timing college",
+                "what is my college time",
+                "is college open on saturday",
+                "when should i attend college",
+                "hours of operation",
+                "what are your hours",
+                "college timing",
+                "what about college timing",
+                "tell me something about college timing",
+                "what is college timing",
+                "when are you guys open"
+            ],
+            "responses": [
+                "College is open 8am-5pm Monday-Saturday!"
+            ]
+        },
+        {
+            "tag": "number",
+            "patterns": [
+                "college telephone number",
+                "Contact number?",
+                "how can i contact you",
+                "how to contact college",
+                "Can i get your phone number",
+                "call",
+                "phone number",
+                "College phone no?",
+                "contact info",
+                "how can i call you",
+                "more info",
+                "What is your contact no"
+            ],
+            "responses": [
+                "You can contact at: NUMBER"
+            ]
+        },
+        {
+            "tag": "course",
+            "patterns": [
+                "Civil engineering",
+                "can you tell me the branches available in UNI?",
+                "courses available at UNI?",
+                "list of courses offered in college",
+                "Information Technology",
+                "it",
+                "can you tell me the courses available in UNI?",
+                "branches?",
+                "branches available at your college?",
+                "computer",
+                "Chemical engineering",
+                "list of courses",
+                "AI/Ml",
+                "what are the courses in UNI?",
+                "what are courses in UNI?",
+                "what are branches in UNI?",
+                "list of courses offered",
+                "Computer engineering?",
+                "computer engineering?",
+                "branches available in UNI?",
+                "IT"
+            ],
+            "responses": [
+                "Our university offers Information Technology, computer Engineering, Mechanical engineering,Chemical engineering, Civil engineering and extc Engineering."
+            ]
+        },
+        {
+            "tag": "fees",
+            "patterns": [
+                "fee per semester",
+                "what is the fees",
+                "what is fees",
+                "how much is the fees",
+                "information on fee",
+                "about the fees",
+                "tell me  about the fees",
+                "how much is the fees",
+                "tell me the fee",
+                "information about fee",
+                "college fee",
+                "fees for first year",
+                "hostel fees"
+            ],
+            "responses": [
+                "For Fee detail visit <a target=\"_blank\" href=\"LINK\"> here</a>"
+            ]
+        },
+        {
+            "tag": "location",
+            "patterns": [
+                "where is the college located",
+                "where is college",
+                "college is located at",
+                "location",
+                "what is the address of college",
+                "whats is the college address",
+                "address of college",
+                "college location",
+                "wheres the college",
+                "college address"
+            ],
+            "responses": [
+                "<a target=\"_blank\" href=\"ADD YOU GOOGLE MAP LINK HERE\"> here</a>"
+            ]
+        },
+        {
+            "tag": "hostel",
+            "patterns": [
+                "how to get in hostel",
+                "hostel college distance",
+                "hostel fees",
+                "hostel facilities",
+                "hostel location",
+                "what is the hostel fee",
+                "do you guys have hostel",
+                "distance between hostel and college",
+                "Where is hostel",
+                "hostel facility",
+                "do you have hostel",
+                "hostel capacity",
+                "distance between college and hostel",
+                "hostel",
+                "Is there any hostel",
+                "how far is hostel from college"
+            ],
+            "responses": [
+                "For hostel detail visit <a target=\"_blank\" href=\"ADD YOUR HOSTEL DETAIL PDF LINK OR ANY INFORMATION LINK OR ADD YOU OWN ANSWERS\"> here</a>"
+            ]
+        },
+        {
+            "tag": "event",
+            "patterns": [
+                "events organized",
+                "What events are conducted in college",
+                "what are the events",
+                "tell me about events",
+                "list of events",
+                "list of events conducted in college",
+                "list of events organized in college",
+                "Are there any event held at college"
+            ],
+            "responses": [
+                "For event detail visit <a target=\"_blank\" href=\"ADD YOUR FUNCTIONS LINK OR YOUR OWN RESPONSE\"> here</a>"
+            ]
+        },
+        {
+            "tag": "floors",
+            "patterns": [
+                "How many floors does college have",
+                "building size",
+                "what is the number of floors in college",
+                "size of campus",
+                "floors in college",
+                "floors"
+            ],
+            "responses": [
+                "My College has total 2 floors "
+            ]
+        },
+        {
+            "tag": "library",
+            "patterns": [
+                "college library",
+                "Library",
+                "how many libraries",
+                "is there any library",
+                "library facilities",
+                "where can i get books",
+                "Library information",
+                "Where is library",
+                "Tell me about library",
+                "do you have library",
+                "book facility"
+            ],
+            "responses": [
+                "There is one huge and spacious library.timings are 8am to 6pm and for more visit <a target=\"blank\" href=\"ADD LIBRARY DETAIL LINK\">here</a>"
+            ]
+        },
+        {
+            "tag": "canteen",
+            "patterns": [
+                "Where is canteen",
+                "food facilities",
+                "Does college have canteen",
+                "canteen facilities",
+                "Cafeteria",
+                "Food",
+                "is there any canteen",
+                "canteen"
+            ],
+            "responses": [
+                "Our university has canteen with variety of food available",
+                "You can go to the university's canteen or Cafeteria to eat whatever you want "
+            ]
+        },
+        {
+            "tag": "menu",
+            "patterns": [
+                "what is available in college canteen",
+                "what foods can we get in college canteen",
+                "food variety",
+                "Whats there on menu",
+                "food in canteen"
+            ],
+            "responses": [
+                "we serve pasta, pizza, potatoes, sandwiches and many more on menu"
+            ]
+        },
+        {
+            "tag": "sem",
+            "patterns": [
+                "exam timetable",
+                "exam schedule",
+                "sem",
+                "Semester exam timetable",
+                "when is semester",
+                "exam dates",
+                "exam dates",
+                "exam"
+            ],
+            "responses": [
+                "Here is the Academic Calendar  <a target=\"_blank\" href=\"YOUR ACADEMIC CALENDER\">website</a>"
+            ]
+        },
+        {
+            "tag": "facilities",
+            "patterns": [
+                "facilities",
+                "What facilities college provide",
+                "What are college facilities",
+                "facilities provided"
+            ],
+            "responses": [
+                "Our university's Engineering department provides fully AC Lab with internet connection, smart classroom, Auditorium, library,canteen"
+            ]
+        },
+        {
+            "tag": "college intake",
+            "patterns": [
+                "maximum students intake",
+                "number of seats in each branch",
+                "seat allotment",
+                "What is college intake",
+                "seats",
+                "how many student are taken in each branch",
+                "max number of students"
+            ],
+            "responses": [
+                "For IT, Computer and extc 60 per branch and seat may be differ for different department."
+            ]
+        },
+        {
+            "tag": "random",
+            "patterns": [
+                "Will you marry me",
+                "Do you love me"
+            ],
+            "responses": [
+                "I am not program for this, please ask appropriate query"
+            ]
+        },
+        {
+            "tag": "bad word",
+            "patterns": [
+                "bitch",
+                "idiot",
+                "stupid",
+                "dumb ass",
+                "hell",
+                "asshole",
+                "fucker"
+            ],
+            "responses": [
+                "please use appropriate language",
+                "Maintaining decency would be appreciated"
+            ]
+        },
+        {
+            "tag": "vacation",
+            "patterns": [
+                "holiday list",
+                "when will semester end",
+                "when will semester starts",
+                "When is vacation",
+                "about holidays",
+                "about vacations",
+                "when is the holidays",
+                "list of holidays",
+                "holidays"
+            ],
+            "responses": [
+                "Academic calender is given to you by your class-coordinators after you join your respective classes"
+            ]
+        },
+        {
+            "tag": "sports",
+            "patterns": [
+                "please provide sports and games information",
+                "information about sports",
+                "Sports activities",
+                "sports and games",
+                "sports facilities"
+            ],
+            "responses": [
+                "Our university encourages all-round development of students and hence provides sports facilities in the campus. For more details visit<a target=\"_blank\" href=/\"(LINK IF HAVE)\">here</a>"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "thankyou",
+                "great thanks",
+                "thank you",
+                "thank you so much",
+                "thank you very much",
+                "thanks",
+                "thanks bro"
+            ],
+            "responses": [
+                "You're welcome!",
+                "No problem :)",
+                "Anytime!",
+                "Glad I could help!",
+                "You're welcome! Have a great day!",
+                "Don't mention it!",
+                "You're welcome! Feel free to ask anything else!"
+            ]
+        },
+        {
+            "tag": "weather",
+            "patterns": [
+                "tell me weather today ",
+                "Is it going to rain?",
+                "What's the weather like today?",
+                "Weather forecast"
+            ],
+            "responses": [
+                "The weather today is sunny with a high of 75\u00c2\u00b0F.",
+                "It's currently raining with a temperature of 68\u00c2\u00b0F.",
+                "The weather forecast predicts cloudy skies with a chance of showers."
+            ]
+        },
+        {
+            "tag": "joke",
+            "patterns": [
+                "Do you know any jokes?",
+                "I need to laugh",
+                "Tell me a joke"
+            ],
+            "responses": [
+                "Why don't scientists trust atoms? Because they make up everything!",
+                "Did you hear about the mathematician who's afraid of negative numbers? He'll stop at nothing to avoid them!",
+                "Why did the scarecrow win an award? Because he was outstanding in his field!"
+            ]
+        },
+        {
+            "tag": "machine learning",
+            "patterns": [
+                "definition of machine learning",
+                "what is the meaning of machine learning",
+                "ml",
+                "what do you mean by machine learning"
+            ],
+            "responses": [
+                "Machine learning is a branch of computer science which deals with system programming in order to automatically learn and improve with experience. For example: Robots are programmed so that they can perform the task based on data they gather from sensors. It automatically learns programs from data."
+            ]
+        },
+        {
+            "tag": "algorithms of Machine Learning",
+            "patterns": [
+                "algorithms of Machine Learning",
+                "tell me about machine learning algorithms",
+                "list some algorithms of Machine Learning",
+                "different algorithms of Machine Learning"
+            ],
+            "responses": [
+                "Decision Trees,KNN,SVC,Random Forest,Bagging and Boosting Classifiers,Voting Classifier,K-mean and many other algorithms"
+            ]
+        },
+        {
+            "tag": "machine learning applications",
+            "patterns": [
+                "tell me about machine learning applications",
+                "machine learning applications ?",
+                "some applications of machine learning",
+                "what are the applications of machine learning"
+            ],
+            "responses": [
+                "following are some applications of machine learning: 1.Traffic Alerts 2.Social Media 3.Transportation and Commuting 4.Products Recommendations 5.Virtual Personal Assistants 6.Self Driving Cars 7.Dynamic Pricing 8.Google Translate 9.Online Video Streaming 10.Fraud Detection"
+            ]
+        },
+        {
+            "tag": "Deep Learning",
+            "patterns": [
+                "Define Deep Learning",
+                "tell me some about Deep Learning",
+                "Deep Learning"
+            ],
+            "responses": [
+                "Deep learning  is part of a broader family of machine learning methods based on artificial neural networks with representation learning."
+            ]
+        },
+        {
+            "tag": "neural network",
+            "patterns": [
+                "define neural network",
+                "neural network",
+                "tell me about neural network"
+            ],
+            "responses": [
+                "A neural network is a computational model inspired by the structure and functioning of the human brain's biological neural networks. It consists of interconnected nodes, called neurons or units, organized into layers. These layers typically include an input layer, one or more hidden layers, and an output layer"
+            ]
+        },
+        {
+            "tag": "difference between artificial learning and machine learning",
+            "patterns": [
+                "artificial learning and machine learning",
+                "difference between artificial learning and machine learning",
+                "distinguish between artificial learning and ml"
+            ],
+            "responses": [
+                "artificial learning is a broader concept that encompasses various learning techniques, including machine learning. Machine learning specifically deals with algorithms and methods for learning from data, making predictions, and improving performance over time."
+            ]
+        },
+        {
+            "tag": "days in week",
+            "patterns": [
+                "tell me number of days in  week"
+            ],
+            "responses": [
+                "Seven"
+            ]
+        },
+        {
+            "tag": "days in year",
+            "patterns": [
+                "How many days in normal year?"
+            ],
+            "responses": [
+                "365 (not a leap year)"
+            ]
+        },
+        {
+            "tag": "colors in rainbow",
+            "patterns": [
+                "what colors in rainbow?"
+            ],
+            "responses": [
+                "7"
+            ]
+        },
+        {
+            "tag": "ship of the desert",
+            "patterns": [
+                "whom is the  \u00e2\u20ac\u02dcShip of the Desert?\u00e2\u20ac\u2122"
+            ],
+            "responses": [
+                "Camel"
+            ]
+        },
+        {
+            "tag": "letters in English alphabet",
+            "patterns": [
+                "How many letters are there in the English alphabet?"
+            ],
+            "responses": [
+                "26"
+            ]
+        },
+        {
+            "tag": "consonants in English alphabet",
+            "patterns": [
+                "How many consonants are there in the English alphabet?"
+            ],
+            "responses": [
+                "21"
+            ]
+        },
+        {
+            "tag": "sides of triangle",
+            "patterns": [
+                "How many sides in triangle?"
+            ],
+            "responses": [
+                "Three"
+            ]
+        },
+        {
+            "tag": "shortest month",
+            "patterns": [
+                "what is the number of year has the least number of days? "
+            ],
+            "responses": [
+                "February"
+            ]
+        },
+        {
+            "tag": "vowels in English alphabet",
+            "patterns": [
+                "Which are the vowels in the English alphabet series?"
+            ],
+            "responses": [
+                "A, E, I, O, U"
+            ]
+        },
+        {
+            "tag": "king of jungle",
+            "patterns": [
+                "Which animal is called King of Jungle?"
+            ],
+            "responses": [
+                "Lion"
+            ]
+        },
+        {
+            "tag": "primary colors",
+            "patterns": [
+                "How many primary colors are there?"
+            ],
+            "responses": [
+                "Three (red, yellow, blue)"
+            ]
+        },
+        {
+            "tag": "February leap year",
+            "patterns": [
+                "How many days are there in the month of February in a leap year?"
+            ],
+            "responses": [
+                "29 days"
+            ]
+        },
+        {
+            "tag": "house made of ice",
+            "patterns": [
+                "what is house made of ice? "
+            ],
+            "responses": [
+                "Igloo"
+            ]
+        },
+        {
+            "tag": "tallest animal",
+            "patterns": [
+                "What is the tallest animal in the world?"
+            ],
+            "responses": [
+                "Giraffe"
+            ]
+        },
+        {
+            "tag": "festival of colors",
+            "patterns": [
+                "what festival is known as the festival of colors?"
+            ],
+            "responses": [
+                "Holi"
+            ]
+        },
+        {
+            "tag": "festival of light",
+            "patterns": [
+                "what festival is known as the festival of light?"
+            ],
+            "responses": [
+                "Diwali"
+            ]
+        },
+        {
+            "tag": "top color in rainbow",
+            "patterns": [
+                "What is the top color in a rainbow?"
+            ],
+            "responses": [
+                "Red"
+            ]
+        },
+        {
+            "tag": "festival of flowers",
+            "patterns": [
+                "what festival is known as the festival of flowers?"
+            ],
+            "responses": [
+                "Onam"
+            ]
+        },
+        {
+            "tag": "sunrise direction",
+            "patterns": [
+                "In which direction does the sunrise?"
+            ],
+            "responses": [
+                "East"
+            ]
+        },
+        {
+            "tag": "largest flower",
+            "patterns": [
+                "what is the largest flower?"
+            ],
+            "responses": [
+                "Rafflesia"
+            ]
+        },
+        {
+            "tag": "hours in two days",
+            "patterns": [
+                "How many hours are there in two days?"
+            ],
+            "responses": [
+                "48 hours (24+24)"
+            ]
+        },
+        {
+            "tag": "months with 31 days",
+            "patterns": [
+                "what is the number of months are in  31 days?"
+            ],
+            "responses": [
+                "7 (January, March, May, July, August, October and December)"
+            ]
+        },
+        {
+            "tag": "weeks in year",
+            "patterns": [
+                "How many weeks in year?"
+            ],
+            "responses": [
+                "52"
+            ]
+        },
+        {
+            "tag": "colors in rainbow",
+            "patterns": [
+                "What are the colors in a rainbow?"
+            ],
+            "responses": [
+                "Violet, Indigo, Blue, Green, Yellow, Orange, Red"
+            ]
+        },
+        {
+            "tag": "bones in human body",
+            "patterns": [
+                "what is the number of bones in human body?"
+            ],
+            "responses": [
+                "206"
+            ]
+        },
+        {
+            "tag": "first man on moon",
+            "patterns": [
+                "who first went to the moon?"
+            ],
+            "responses": [
+                "Neil Armstrong"
+            ]
+        },
+        {
+            "tag": "millimeters in cm",
+            "patterns": [
+                "what is the number of millimeters in 1cm "
+            ],
+            "responses": [
+                "10"
+            ]
+        },
+        {
+            "tag": "nearest star to earth",
+            "patterns": [
+                "Which is the nearest star to planet earth?"
+            ],
+            "responses": [
+                "Sun"
+            ]
+        },
+        {
+            "tag": "longest river",
+            "patterns": [
+                "Which is the longest river on the earth?"
+            ],
+            "responses": [
+                "Nile"
+            ]
+        },
+        {
+            "tag": "source of energy",
+            "patterns": [
+                "What is the source of energy for earth?"
+            ],
+            "responses": [
+                "Sun"
+            ]
+        },
+        {
+            "tag": "lungs in human body",
+            "patterns": [
+                "what is the number of lungs in the human body?"
+            ],
+            "responses": [
+                "Two"
+            ]
+        },
+        {
+            "tag": "taste of water",
+            "patterns": [],
+            "responses": [
+                "Water is tasteless"
+            ]
+        },
+        {
+            "tag": "tallest mountain",
+            "patterns": [
+                "Which is the tallest mountain in the world?"
+            ],
+            "responses": [
+                "Mount Everest"
+            ]
+        },
+        {
+            "tag": "fastest animal",
+            "patterns": [
+                "Which is the fastest animal in the world?"
+            ],
+            "responses": [
+                "Cheetah"
+            ]
+        },
+        {
+            "tag": "dark continent",
+            "patterns": [
+                "Which continent is known as Dark continent?"
+            ],
+            "responses": [
+                "Africa"
+            ]
+        },
+        {
+            "tag": "red planet",
+            "patterns": [
+                "What planet is known as the Red Planet?"
+            ],
+            "responses": [
+                "Mars"
+            ]
+        },
+        {
+            "tag": "most sensitive organ",
+            "patterns": [
+                "Which is the most sensitive organ in our body?"
+            ],
+            "responses": [
+                "Skin"
+            ]
+        },
+        {
+            "tag": "largest ocean in world",
+            "patterns": [
+                "Which is the largest ocean in the world?"
+            ],
+            "responses": [
+                "Pacific Ocean"
+            ]
+        },
+        {
+            "tag": "world environment day",
+            "patterns": [
+                "What day is  World Environment Day?"
+            ],
+            "responses": [
+                "June 5"
+            ]
+        },
+        {
+            "tag": "years in century",
+            "patterns": [
+                "How many years are  in a century?"
+            ],
+            "responses": [
+                "One Hundred"
+            ]
+        },
+        {
+            "tag": "largest country in world",
+            "patterns": [
+                "What is the largest country in the world?"
+            ],
+            "responses": [
+                "Russia (By area)"
+            ]
+        },
+        {
+            "tag": "inventor of computer",
+            "patterns": [
+                "Who invented the Computer?"
+            ],
+            "responses": [
+                "Charles Babbage"
+            ]
+        },
+        {
+            "tag": "inventor of radio",
+            "patterns": [
+                "Who is the inventor of Radio?"
+            ],
+            "responses": [
+                "Marconi"
+            ]
+        },
+        {
+            "tag": "teeth in adult human",
+            "patterns": [
+                "How many teeth does  adult have?"
+            ],
+            "responses": [
+                "32"
+            ]
+        },
+        {
+            "tag": "population of world",
+            "patterns": [
+                "How many people are in the world?"
+            ],
+            "responses": [
+                "Over 11 billion"
+            ]
+        },
+        {
+            "tag": "continent with most countries",
+            "patterns": [
+                "What is the continent with the most number of countries?"
+            ],
+            "responses": [
+                "Africa"
+            ]
+        },
+        {
+            "tag": "common non contagious disease",
+            "patterns": [
+                "What is the most common non-contagious disease in the world?"
+            ],
+            "responses": [
+                "Tooth Decay"
+            ]
+        },
+        {
+            "tag": "planets in solar system",
+            "patterns": [
+                "How many planets are  in our solar system?"
+            ],
+            "responses": [
+                "8"
+            ]
+        },
+        {
+            "tag": "hottest continent on earth",
+            "patterns": [
+                "Which is the hottest continent on Earth?"
+            ],
+            "responses": [
+                "Africa"
+            ]
+        },
+        {
+            "tag": "smallest continent in world",
+            "patterns": [
+                "What is the smallest continent in the world?"
+            ],
+            "responses": [
+                "Australia"
+            ]
+        },
+        {
+            "tag": "painter of mona lisa",
+            "patterns": [
+                "Who painted of Mona Lisa?"
+            ],
+            "responses": [
+                "Leonardo da Vinci"
+            ]
+        },
+        {
+            "tag": "inventor of telephone",
+            "patterns": [
+                "who is the inventer of the telephone? "
+            ],
+            "responses": [
+                "Alexander Graham Bell"
+            ]
+        },
+        {
+            "tag": "meaning of www",
+            "patterns": [
+                "What is meaning of www?"
+            ],
+            "responses": [
+                "World Wide Web"
+            ]
+        },
+        {
+            "tag": "earth surface covered by ocean",
+            "patterns": [
+                "How much of Earth\u00e2\u20ac\u2122s surface is covered by ocean?"
+            ],
+            "responses": [
+                "71%"
+            ]
+        }
+    ]
+}

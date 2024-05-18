@@ -1,0 +1,4 @@
+1.preprocessing by nlp
+2. create traing data using pytorch
+3. pytorch model and traing
+4. save the modeland implement the chat
