@@ -3,144 +3,144 @@
         {
             "tag": "greeting",
             "patterns": [
-                "Hey, how's your day?",
-                "Hey there, how are you doing?",
-                "Howdy!",
                 "Hey, what's happening?",
+                "Hey, how's your day?",
+                "What's cracking?",
+                "Hey, long time no see!",
                 "hey",
-                "Good morning!"
+                "Hey, how have you been?"
             ]
         },
         {
             "tag": "goodbye",
             "patterns": [
-                "I'm off then, goodbye!",
+                "I am Leaving",
+                "See you later",
+                "Take care, see you later!",
                 "Catch you later, buddy!",
-                "Have a Good day",
-                "See you when I see you!",
-                "I am Leaving"
+                "Bye, until next time!"
             ]
         },
         {
             "tag": "task",
             "patterns": [
-                "why i should use you",
-                "what are the thing you can do"
+                "things you can do",
+                "how u can help me"
             ]
         },
         {
             "tag": "creator",
             "patterns": [
-                "your creators",
                 "who designed you",
-                "creators"
+                "who made you",
+                "your developers"
             ]
         },
         {
             "tag": "name",
             "patterns": [
-                "what should I call you",
                 "what are you",
+                "name",
                 "who is this"
             ]
         },
         {
             "tag": "hours",
             "patterns": [
-                "working days",
-                "when should i come to college",
-                "what is the college  hours",
+                "what is my college time",
+                "when should i attend college",
+                "college timing",
                 "when is the college open"
             ]
         },
         {
             "tag": "number",
             "patterns": [
-                "phone no",
-                "college number",
-                "how to call you"
+                "call",
+                "contact info",
+                "how can i contact you"
             ]
         },
         {
             "tag": "course",
             "patterns": [
-                "what are the courses offered in your college?",
                 "Mechanical engineering",
-                "courses you offer",
-                "can you tell me about courses?",
-                "courses?",
-                "courses offered"
+                "Information Technology",
+                "can you tell me the courses available in UNI?",
+                "what are the courses offered in your college?",
+                "list of courses",
+                "Chemical engineering"
             ]
         },
         {
             "tag": "fees",
             "patterns": [
+                "tell me the fee",
                 "fees",
                 "What is the fees of hostel",
-                "what is the fees of each year",
-                "what is the fees of each semester"
+                "how much is the fees"
             ]
         },
         {
             "tag": "location",
             "patterns": [
-                "how can I reach college",
-                "how to reach college",
-                "address"
+                "what is the address of college",
+                "where is the college located",
+                "whats is the college address"
             ]
         },
         {
             "tag": "hostel",
             "patterns": [
-                "how big is the hostel",
-                "Does college provide hostel",
-                "hostel address",
-                "what is the hostel address"
+                "Is there any hostel",
+                "hostel college distance",
+                "Where is hostel",
+                "distance between hostel and college"
             ]
         },
         {
             "tag": "event",
             "patterns": [
-                "what about events",
-                "Events?"
+                "list of events organized in college",
+                "events organized"
             ]
         },
         {
             "tag": "floors",
             "patterns": [
                 "floors in college",
-                "how tall is UNI's College of Engineering college building"
+                "How many floors does college have"
             ]
         },
         {
             "tag": "library",
             "patterns": [
-                "does the college have library facility",
-                "library facility",
-                "Library books information"
+                "Library information",
+                "Library books information",
+                "do you have library"
             ]
         },
         {
             "tag": "canteen",
             "patterns": [
-                "Is there a cafeteria in college",
-                "canteen facility",
-                "where is cafeteria"
+                "Does college have canteen",
+                "is there any canteen",
+                "food facilities"
             ]
         },
         {
             "tag": "menu",
             "patterns": [
-                "What is there to eat?",
-                "food menu"
+                "food variety",
+                "food in canteen"
             ]
         },
         {
             "tag": "sem",
             "patterns": [
-                "When is semester exam",
-                "when is exam",
-                "semester"
+                "semester",
+                "exam schedule",
+                "When is semester exam"
             ]
         },
         {
@@ -152,91 +152,91 @@
         {
             "tag": "college intake",
             "patterns": [
-                "maximum number of seats",
+                "how many student are taken in each branch",
                 "number of seats per branch"
             ]
         },
         {
             "tag": "random",
             "patterns": [
-                "I love you"
+                "Do you love me"
             ]
         },
         {
             "tag": "bad word",
             "patterns": [
-                "fuck",
-                "shut up"
+                "dumb ass",
+                "hell"
             ]
         },
         {
             "tag": "vacation",
             "patterns": [
-                "Holiday in these year",
-                "how long will be the vacation",
-                "When is holidays"
+                "holiday list",
+                "when is the holidays",
+                "Holiday in these year"
             ]
         },
         {
             "tag": "sports",
             "patterns": [
-                "sports infrastructure",
-                "give sports details"
+                "sports and games",
+                "Sports activities"
             ]
         },
         {
             "tag": "thanks",
             "patterns": [
-                "awesome, thanks",
-                "thanks a lot"
+                "thank you",
+                "thank you very much"
             ]
         },
         {
             "tag": "weather",
             "patterns": [
-                "How's the weather?"
+                "tell me weather today "
             ]
         },
         {
             "tag": "joke",
             "patterns": [
-                "Joke time"
+                "Tell me a joke"
             ]
         },
         {
             "tag": "machine learning",
             "patterns": [
-                "machine learning"
+                "what do you mean by machine learning"
             ]
         },
         {
             "tag": "algorithms of Machine Learning",
             "patterns": [
-                "what are algorithms of machine learning"
+                "different algorithms of Machine Learning"
             ]
         },
         {
             "tag": "machine learning applications",
             "patterns": [
-                "Mention some applications of machine learning"
+                "what are the applications of machine learning"
             ]
         },
         {
-            "tag": "Deep Learning",
+            "tag": "deep learning",
             "patterns": [
-                "What is Deep Learning?"
+                "define deep learning"
             ]
         },
         {
             "tag": "neural network",
             "patterns": [
-                "What is a neural network?"
+                "define neural network"
             ]
         },
         {
             "tag": "difference between artificial learning and machine learning",
             "patterns": [
-                "tell me difference between artificial learning and machine learning "
+                "artificial learning and machine learning"
             ]
         },
         {
@@ -248,31 +248,31 @@
         {
             "tag": "days in year",
             "patterns": [
-                "what is the number of  days in  normal year?"
+                "How many days in normal year?"
             ]
         },
         {
             "tag": "colors in rainbow",
             "patterns": [
-                "How many colors  in rainbow?"
+                "what colors in rainbow?"
             ]
         },
         {
             "tag": "ship of the desert",
             "patterns": [
-                "Which animal is known as the \u00e2\u20ac\u02dcShip of the Desert?\u00e2\u20ac\u2122"
+                "who is the ship of the desert"
             ]
         },
         {
-            "tag": "letters in English alphabet",
+            "tag": "letters in english ",
             "patterns": [
-                "what is the number of letters are  in the English alphabet?"
+                "How many letters in english ?"
             ]
         },
         {
-            "tag": "consonants in English alphabet",
+            "tag": "consonants in english ",
             "patterns": [
-                "what is the number of consonants  are in the English alphabet?"
+                "what is the number of consonants  in english?"
             ]
         },
         {
@@ -288,15 +288,15 @@
             ]
         },
         {
-            "tag": "vowels in English alphabet",
+            "tag": "vowels in english",
             "patterns": [
-                "what is the number of vowels in the English alphabet series?  "
+                "what is the number of vowels in english?  "
             ]
         },
         {
             "tag": "king of jungle",
             "patterns": [
-                "who is the king of jungle?"
+                "Which animal is called king of jungle?"
             ]
         },
         {
@@ -314,7 +314,7 @@
         {
             "tag": "house made of ice",
             "patterns": [
-                "What do you call a house made of ice?"
+                "what is house made of ice? "
             ]
         },
         {
@@ -326,7 +326,7 @@
         {
             "tag": "festival of colors",
             "patterns": [
-                "Which festival is known as the festival of colors?"
+                "what festival is known as the festival of colors?"
             ]
         },
         {
@@ -368,7 +368,7 @@
         {
             "tag": "months with 31 days",
             "patterns": [
-                "How many months of the year have 31 days?"
+                "what is the number of months are in  31 days?"
             ]
         },
         {
@@ -380,13 +380,13 @@
         {
             "tag": "colors in rainbow",
             "patterns": [
-                "Which are the colors in a rainbow?"
+                "What are the colors in a rainbow?"
             ]
         },
         {
             "tag": "bones in human body",
             "patterns": [
-                "How many bones does an adult human have?"
+                "what is the number of bones in human body?"
             ]
         },
         {
@@ -404,13 +404,13 @@
         {
             "tag": "nearest star to earth",
             "patterns": [
-                "what is the nearest star to planet earth? "
+                "Which is the nearest star to planet earth?"
             ]
         },
         {
             "tag": "longest river",
             "patterns": [
-                "What is the longest river on the earth?"
+                "Which is the longest river on the earth?"
             ]
         },
         {
@@ -434,55 +434,55 @@
         {
             "tag": "tallest mountain",
             "patterns": [
-                "What is the tallest mountain in the world?"
+                "Which is the tallest mountain in the world?"
             ]
         },
         {
             "tag": "fastest animal",
             "patterns": [
-                "What is the fastest animal in the world?"
+                "Which is the fastest animal in the world?"
             ]
         },
         {
             "tag": "dark continent",
             "patterns": [
-                "What continent is known as Dark continent?"
+                "Which continent is known as Dark continent?"
             ]
         },
         {
             "tag": "red planet",
             "patterns": [
-                "Which planet is known as the Red Planet?"
+                "What planet is known as the Red Planet?"
             ]
         },
         {
             "tag": "most sensitive organ",
             "patterns": [
-                "What is the most sensitive organ in our body?"
+                "Which is the most sensitive organ in our body?"
             ]
         },
         {
             "tag": "largest ocean in world",
             "patterns": [
-                "What is the largest ocean in the world?"
+                "Which is the largest ocean in the world?"
             ]
         },
         {
             "tag": "world environment day",
             "patterns": [
-                "Which day is  World Environment Day?"
+                "What day is  World Environment Day?"
             ]
         },
         {
             "tag": "years in century",
             "patterns": [
-                "what is the number years are  in a century?"
+                "How many years are  in a century?"
             ]
         },
         {
             "tag": "largest country in world",
             "patterns": [
-                "Which is the largest country in the world?"
+                "What is the largest country in the world?"
             ]
         },
         {
@@ -494,7 +494,7 @@
         {
             "tag": "inventor of radio",
             "patterns": [
-                "Who invented the Radio?"
+                "Who is the inventor of Radio?"
             ]
         },
         {
@@ -512,19 +512,19 @@
         {
             "tag": "continent with most countries",
             "patterns": [
-                "Which is the continent with the most number of countries?"
+                "What is the continent with the most number of countries?"
             ]
         },
         {
             "tag": "common non contagious disease",
             "patterns": [
-                "Which is the most common non-contagious disease in the world?"
+                "What is the most common non-contagious disease in the world?"
             ]
         },
         {
             "tag": "planets in solar system",
             "patterns": [
-                "what is the number of planets are in our solar system? "
+                "How many planets are  in our solar system?"
             ]
         },
         {
@@ -554,7 +554,7 @@
         {
             "tag": "meaning of www",
             "patterns": [
-                "what does www mean"
+                "What is meaning of www?"
             ]
         },
         {

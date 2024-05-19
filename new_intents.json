@@ -631,13 +631,13 @@
    "context_set": ""
 },
 {
-   "tag": "Deep Learning",
-   "patterns": ["What is Deep Learning?", 
-   "Deep Learning", 
-   "Define Deep Learning",
-   "tell me some about Deep Learning"
+   "tag": "deep learning",
+   "patterns": ["What is deep learning?", 
+   "deep learning", 
+   "define deep learning",
+   "tell me some about deep learning"
 ],
-   "responses": ["Deep learning  is part of a broader family of machine learning methods based on artificial neural networks with representation learning."],
+   "responses": ["deep learning  is part of a broader family of machine learning methods based on artificial neural networks with representation learning."],
    "context_set": ""
 },
 {
@@ -658,7 +658,7 @@
    "tell me difference between artificial learning and machine learning " 
 ],
    
-   "responses": ["artificial learning is a broader concept that encompasses various learning techniques, including machine learning. Machine learning specifically deals with algorithms and methods for learning from data, making predictions, and improving performance over time."],
+   "responses": ["artificial learning is a more huge concept that encompasses various learning techniques, including machine learning. Machine learning specifically deals with algorithms and methods for learning from data, making predictions, and improving performance over time."],
    "context_set": ""
 },
 {
@@ -697,8 +697,8 @@
 {
    "tag": "ship of the desert",
    "patterns": [
-   "Which animal is known as the ‘Ship of the Desert?’",
-   "whom is the  ‘Ship of the Desert?’"
+   "Which animal is known as ship of the desert?",
+   "who is the ship of the desert"
    ],
    "responses": [
    "Camel"
@@ -706,10 +706,10 @@
    "context_set": ""
 },
 {
-   "tag": "letters in English alphabet",
+   "tag": "letters in english ",
    "patterns": [
-   "How many letters are there in the English alphabet?",
-   "what is the number of letters are  in the English alphabet?"
+   "How many letters in english ?",
+   "what is the number of letters in english?"
    ],
    "responses": [
    "26"
@@ -717,10 +717,10 @@
    "context_set": ""
 },
 {
-   "tag": "consonants in English alphabet",
+   "tag": "consonants in english ",
    "patterns": [
-   "How many consonants are there in the English alphabet?",
-   "what is the number of consonants  are in the English alphabet?"
+   "How many consonants  in english?",
+   "what is the number of consonants  in english?"
    ],
    "responses": [
    "21"
@@ -750,10 +750,10 @@
    "context_set": ""
 },
 {
-   "tag": "vowels in English alphabet",
+   "tag": "vowels in english",
    "patterns": [
-   "Which are the vowels in the English alphabet series?",
-   "what is the number of vowels in the English alphabet series?  "
+   "Which vowels in english?",
+   "what is the number of vowels in english?  "
    ],
    "responses": [
    "A, E, I, O, U"
@@ -763,7 +763,7 @@
 {
    "tag": "king of jungle",
    "patterns": [
-   "Which animal is called King of Jungle?",
+   "Which animal is called king of jungle?",
    "who is the king of jungle?"
    ],
    "responses": [
